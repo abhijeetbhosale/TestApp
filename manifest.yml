@@ -1,0 +1,6 @@
+---
+applications:
+- name: TestApp
+  memory: 512M
+  instances: 1
+  path: build/outputs/apk/debug/app-debug.apk
